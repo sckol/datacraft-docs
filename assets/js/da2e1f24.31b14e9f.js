@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdatacraft_docs=self.webpackChunkdatacraft_docs||[]).push([[3144],{8769:a=>{a.exports=JSON.parse('{"permalink":"/datacraft-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
