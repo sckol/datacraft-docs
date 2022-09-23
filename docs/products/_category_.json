@@ -1,0 +1,8 @@
+{
+  "label": "Продукты",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Модули, которые мы разработали сами"
+  }
+}
